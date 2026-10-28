@@ -1,0 +1,10 @@
+export const plants = [
+  { id: 1, name: "Monstera Deliciosa", category: "Statement Plants", price: 899, light: "Bright, indirect light", water: "Weekly", image: "photo-1501004318641-b39e6451bec6", description: "Bold split leaves that bring a tropical feel." },
+  { id: 2, name: "Snake Plant", category: "Easy Care", price: 499, light: "Low to bright light", water: "Every 2–3 weeks", image: "photo-1593482892290-f54927ae2b3b", description: "An easy-going plant with sculptural upright leaves." },
+  { id: 3, name: "Golden Pothos", category: "Trailing Plants", price: 399, light: "Indirect light", water: "Weekly", image: "photo-1497250681960-ef046c08a56e", description: "A cheerful trailing plant for shelves and corners." },
+  { id: 4, name: "Peace Lily", category: "Flowering Plants", price: 649, light: "Medium, indirect light", water: "When top soil dries", image: "photo-1593691509543-c55fb32e5cee", description: "Elegant green leaves with delicate white blooms." },
+  { id: 5, name: "Rubber Plant", category: "Statement Plants", price: 799, light: "Bright, indirect light", water: "Every 1–2 weeks", image: "photo-1509423350716-97f9360b4e09", description: "Glossy leaves make a beautiful focal point." },
+  { id: 6, name: "ZZ Plant", category: "Easy Care", price: 549, light: "Low to bright indirect light", water: "Every 2–3 weeks", image: "photo-1509423350716-97f9360b4e09", description: "A resilient plant for busy schedules." },
+  { id: 7, name: "String of Hearts", category: "Trailing Plants", price: 599, light: "Bright, indirect light", water: "When soil dries", image: "photo-1459411552884-841db9b3cc2a", description: "Delicate heart-shaped leaves on cascading vines." },
+  { id: 8, name: "Anthurium", category: "Flowering Plants", price: 749, light: "Bright, indirect light", water: "Weekly, as needed", image: "photo-1498814117408-e396f5507073", description: "Colorful blooms and rich green foliage." }
+];
